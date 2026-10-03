@@ -1,0 +1,6 @@
+{
+  "name": "A TEJA — Cinematic GitHub Banner Studio",
+  "description": "Ultra-wide 3:1 cinematic futuristic banner and GitHub profile README visualizer for A TEJA (AI Builder / Mechanical Engineer / Futuristic Researcher).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
